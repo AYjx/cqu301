@@ -10,5 +10,4 @@
 Enter键不能换行
 <br>正文文字2<br>，加“\<br>”换行
 正文文字3<br>
-[Deep learning with long short-term memory networks for financial market predictions]
-(https://www.onacademic.com/detail/journal_1000040136103710_a078.html)
+[Deep learning with long short-term memory networks for financial market predictions]https://www.onacademic.com/detail/journal_1000040136103710_a078.html)
