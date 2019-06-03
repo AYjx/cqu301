@@ -18,4 +18,6 @@ Enter键不能换行
 * 叹号! + 方括号[ ] + 括号( ) 其中括号里是图片的URL
 * ![《绘.墨遇》艺术学院国画系2015级毕业画展](http://huxi.cqu.edu.cn/static/upfiles/201906/20190603115328436-540-0.jpg)
 #### 插入普通图片
+从个人仓库插入图片
+![](https://github.com/AYjx/cqu301/blob/master/%E8%B4%9D%E5%8F%B6%E6%96%AF.png "贝叶斯公式")
 * 星号
