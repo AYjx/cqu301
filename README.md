@@ -14,4 +14,8 @@ Enter键不能换行
 [Deep learning with long short-term memory networks for financial market predictions](https://www.onacademic.com/detail/journal_1000040136103710_a078.html)<br>
 [Github添加README.md教程](https://www.cnblogs.com/peihao/p/5269153.html "点击跳转")<br>
 ### 插入图片
+#### 插入网络图片
+* 叹号! + 方括号[ ] + 括号( ) 其中括号里是图片的URL
+* ![《绘.墨遇》艺术学院国画系2015级毕业画展](http://huxi.cqu.edu.cn/static/upfiles/201906/20190603115328436-540-0.jpg)
+#### 插入普通图片
 * 星号
