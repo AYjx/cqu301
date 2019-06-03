@@ -12,4 +12,4 @@ Enter键不能换行
 正文文字3<br>
 ### 文字加超链接格式：\[文字](超链接)
 [Deep learning with long short-term memory networks for financial market predictions](https://www.onacademic.com/detail/journal_1000040136103710_a078.html)<br>
-[Github添加README.md教程](https://www.cnblogs.com/peihao/p/5269153.html "悬停显示")
+[Github添加README.md教程](https://www.cnblogs.com/peihao/p/5269153.html "点击跳转")
