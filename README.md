@@ -13,6 +13,7 @@ Enter键不能换行
 ### 文字加超链接格式：\[文字](超链接)
 [Deep learning with long short-term memory networks for financial market predictions](https://www.onacademic.com/detail/journal_1000040136103710_a078.html)<br>
 [Github添加README.md教程](https://www.cnblogs.com/peihao/p/5269153.html "点击跳转")<br>
+[Coder-Yu](https://github.com/Coder-Yu)
 ### 插入图片
 #### 插入网络图片
 * 叹号! + 方括号[ ] + 括号( ) 其中括号里是图片的URL
