@@ -16,7 +16,7 @@ Enter键不能换行
 ### 插入图片
 #### 插入网络图片
 * 叹号! + 方括号[ ] + 括号( ) 其中括号里是图片的URL
-* ![](http://news.cqu.edu.cn/newsv2/uploadfile/2019/0424/20190424024840793.jpg)
+![](http://news.cqu.edu.cn/newsv2/uploadfile/2019/0424/20190424024840793.jpg)
 #### 插入本地图片
 从个人仓库插入图片
 ![](https://github.com/AYjx/cqu301/blob/master/%E8%B4%9D%E5%8F%B6%E6%96%AF.png "贝叶斯公式")
