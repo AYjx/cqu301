@@ -21,4 +21,4 @@ Enter键不能换行
 从个人仓库插入图片
 ![](https://github.com/AYjx/cqu301/blob/master/%E8%B4%9D%E5%8F%B6%E6%96%AF.png "贝叶斯公式")
 #### 给图片加上超链接（\[\!\[](图片自身链接)](需要加给图片的超链接)）
-[![]()](http://90.cqu.edu.cn/)
+[![](https://github.com/AYjx/cqu301/blob/master/%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A690%E5%91%A8%E5%B9%B4.jpg)](http://90.cqu.edu.cn/ "重庆大学90周年")
